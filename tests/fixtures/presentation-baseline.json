@@ -1,0 +1,24 @@
+{
+  "clientDebtCleanup": {
+    "page": {
+      "rules": 1059,
+      "rulesSha256": "459891bfd5b1123ed9a4f1197d355df0933ece10130ac4a0b47712155c4a1262",
+      "classes": 289,
+      "classesSha256": "59713c331c11a7852d468532bb6c9c8b5dd1ce2ceb583f0d00dfe643ff9992b3"
+    },
+    "sidebar": {
+      "rules": 116,
+      "rulesSha256": "7043a45382984afa176d161211cf90218001918100ee06c39b92dbabc692c8a9",
+      "classes": 28,
+      "classesSha256": "1023db19fca62acf746f435b5185a5247017e30b0c2f5cf1c9be98e3415eb793"
+    },
+    "zh": {
+      "keys": 1376,
+      "sha256": "b759c0d00227b01bced80f4f0382217440cb93a10684217d54b2695630edcd53"
+    },
+    "en": {
+      "keys": 1376,
+      "sha256": "33d3e6f3ee5b157b7bfd73370e8a16059eb563241a4012299b65489d2dc5fd35"
+    }
+  }
+}
